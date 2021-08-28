@@ -1,0 +1,36 @@
+<resources>
+    <string name="app_name">Anketiranje</string>
+    <string name="title_activity_home_screen">HomeScreen</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Android Studio</string>
+    <string name="nav_header_subtitle">android.studio@android.com</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_logout">Odjava</string>
+
+    <string name="menu_home">Početna stranica</string>
+    <string name="menu_groups">Upravljanje grupama</string>
+    <string name="menu_slideshow">Slideshow</string>
+    <string name="e_mail">E-mail</string>
+    <string name="password">Lozinka</string>
+    <string name="password2">Ponovite lozinku</string>
+    <string name="login">Prijava</string>
+    <string name="register">Registracija</string>
+    <string name="continue_without_registration">Nastavi bez registracije</string>
+    <string name="errorEmptyFields">Neka polja su prazna</string>
+    <string name="errorEmail">Provjerite e-mail adresu</string>
+    <string name="errorPasswordLength">Molimo koristite lozinku dugu barem  6 znakova</string>
+    <string name="verified">Verificiran</string>
+    <string name="errorEmailVerification">Provjerite e-mail da potvrdite svoj račun</string>
+    <string name="errorLogin">Greška u logiranju</string>
+    <string name="errorPasswordMissmatch">Unesene lozinke se ne podudaraju</string>
+    <string name="successfulRegistration">Korisnik uspješno registriran</string>
+    <string name="unsuccessfulRegistration">Greška u registriranju, pokušajte ponovno</string>
+    <string name="errorUserExists">Korisnik sa ovom E-mail adresom već postoji.</string>
+    <string name="groupCodeHint">Unesite kod grupe</string>
+    <string name="enterGroup">Pridruživanje grupi</string>
+    <string name="startSurvey">Započni anketu</string>
+    <string name="surveyComplete">Kraj ankete \n\n Hvala na sudjelovanju</string>
+    <string name="surveyCodeHint">Unesite kod ankete</string>
+    <string name="enterSurvey">Pristupite anketi</string>
+</resources>
